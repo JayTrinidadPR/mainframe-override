@@ -45,7 +45,7 @@ feel free to follow the steps below.
 1. Get the username of the person who made the post about EmptyStack in `forum_posts`.
 2. Get the last name of the person associated with that username in `forum_accounts`.
 3. Find all other accounts with the same last name.
-4. Find all accounts in `emptystack_accounts` with the same last name.
+4. Find all accounts in `emptystack_accounts` with te same last name.
 5. There will only be one EmptyStack employee with a forum account. Use their credentials
    to access `node mainframe`, which will output a new `sql` file for you to run.
 6. Find the message in `emptystack_messages` that mentions a project involving
